@@ -1,0 +1,6 @@
+{
+  "name": "OrbitSentinel",
+  "description": "Agentic Multi-Agent Space Domain & Ground Continuity Engine predicting orbital conjunctions and safeguarding ground communications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
